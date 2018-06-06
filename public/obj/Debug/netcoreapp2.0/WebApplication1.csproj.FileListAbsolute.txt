@@ -20,3 +20,14 @@ C:\Users\saikrishna\Visual Studio Projects\WebApplication1\WebApplication1\obj\D
 C:\Users\saikrishna\Visual Studio Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
 C:\Users\saikrishna\Visual Studio Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
 C:\Users\saikrishna\Visual Studio Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\Users\saikrishna\Visual Studio Projects\WebApplication1\angular-js-kudvenkat\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+C:\Users\saikrishna\Visual Studio Projects\WebApplication1\angular-js-kudvenkat\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+C:\Users\saikrishna\Visual Studio Projects\WebApplication1\angular-js-kudvenkat\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\saikrishna\Visual Studio Projects\WebApplication1\angular-js-kudvenkat\bin\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Users\saikrishna\Visual Studio Projects\WebApplication1\angular-js-kudvenkat\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\Users\saikrishna\Visual Studio Projects\WebApplication1\angular-js-kudvenkat\obj\Debug\netcoreapp2.0\WebApplication1.csprojAssemblyReference.cache
+C:\Users\saikrishna\Visual Studio Projects\WebApplication1\angular-js-kudvenkat\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\saikrishna\Visual Studio Projects\WebApplication1\angular-js-kudvenkat\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\saikrishna\Visual Studio Projects\WebApplication1\angular-js-kudvenkat\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+C:\Users\saikrishna\Visual Studio Projects\WebApplication1\angular-js-kudvenkat\obj\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Users\saikrishna\Visual Studio Projects\WebApplication1\angular-js-kudvenkat\obj\Debug\netcoreapp2.0\WebApplication1.pdb

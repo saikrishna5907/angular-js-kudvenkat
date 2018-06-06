@@ -12668,11 +12668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saikrishna\\Visual Studio Projects\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\saikrishna\\Visual Studio Projects\\WebApplication1\\angular-js-kudvenkat\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\saikrishna\\Visual Studio Projects\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\saikrishna\\Visual Studio Projects\\WebApplication1\\angular-js-kudvenkat\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\saikrishna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saikrishna\\Visual Studio Projects\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\saikrishna\\Visual Studio Projects\\WebApplication1\\angular-js-kudvenkat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
