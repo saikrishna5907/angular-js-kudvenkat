@@ -1,16 +1,25 @@
 {
-	"name": "angular-js-kudvenkat",
-	"version": "1.0.0",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"dependencies": {
-		"ejs": "^2.6.1",
-		"express": "4.13.3"
-	},
-	"engine": {
-		"node": "8.11.2"
-	},
-	"author": "saikrishna",
-	"license": "isc"
+  "name": "angular-js-kudvenkat",
+  "version": "1.0.0",
+  "description": "my 1st deployment using heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikrishna5907/angular-js-kudvenkat.git"
+  },
+  "author": "saikrishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saikrishna5907/angular-js-kudvenkat/issues"
+  },
+  "homepage": "https://github.com/saikrishna5907/angular-js-kudvenkat#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "scripts" {
+    "start": "node index.js"
+  }
 }
