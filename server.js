@@ -4,7 +4,7 @@ var app=express();
 //set port number
 var port = process.env.port || 8080
 
-app.use(express.static(__dirname));
+app.use(express.static(__dirname + "/public"));
 
 // set up routes
 app.get("/",function(req,res){
