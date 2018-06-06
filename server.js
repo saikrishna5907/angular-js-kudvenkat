@@ -8,8 +8,8 @@ app.use(express.static(__dirname + "/public"));
 app.set('views',__dirname + "/views");
 app.set('view engine','ejs');
 // set up routes
-app.get("/",function(req,res){
-	res.render("htmlpage");
+app.get("/",function(request,response){
+	response.render("pages/htmlpage");
 })
 
 app.listen(port,function(){
